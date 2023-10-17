@@ -1,5 +1,5 @@
 # IROS2023PaperList
-This repository lists all papers presented in ICRA 2022.
+This repository lists all papers presented in IROS 2023 in alphanumeric order.
 
 - (LC)2: LiDAR-Camera Loop Constraints for Cross-Modal Place Recognition
 - 2-DOF Robot Arm with Variable Torque Limiters Realized by Electrostatic Film Motors
